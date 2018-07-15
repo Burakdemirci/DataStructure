@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="302.0">Part3.CourseList.CourseListIterator</node>
+    <node x="422.0" y="0.0">Part3.MainPart3</node>
+    <node x="231.0" y="346.0">Part3.CourseList.Node</node>
+    <node x="99.25" y="0.0">Part3.CourseList</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Part3.CourseList.Node" target="Part3.CourseList">
+      <point x="0.0" y="-81.5" />
+      <point x="304.0" y="277.0" />
+      <point x="257.5" y="277.0" />
+      <point x="52.75" y="126.0" />
+    </edge>
+    <edge source="Part3.CourseList.CourseListIterator" target="Part3.CourseList">
+      <point x="0.0" y="-125.5" />
+      <point x="105.5" y="277.0" />
+      <point x="152.0" y="277.0" />
+      <point x="-52.75" y="126.0" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.0" x="154.0" y="413.5" />
+  <SelectedNodes>
+    <node>Part3.CourseList.Node</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

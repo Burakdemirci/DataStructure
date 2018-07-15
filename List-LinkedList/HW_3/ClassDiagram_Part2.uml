@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="14.0" y="-282.0">Part2.MyLinkedList</node>
+    <node x="28.0" y="366.0">Part2.MainPart2</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Part2.MainPart2" target="Part2.MyLinkedList">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="158.0" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes>
+    <node>Part2.MyLinkedList</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
